@@ -1,6 +1,7 @@
-# one more step of preprocessing
+# sample stemming
+# one more step of preprocessing the data
 # considers stemwords of a sentence, replaces with normal words
-#PorterStemmer is a stemming algorithm built into NLTK 
+# PorterStemmer is a stemming algorithm built into NLTK 
 
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
