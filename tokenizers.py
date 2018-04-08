@@ -1,7 +1,7 @@
 # tokenizing is a form of grouping text
-#two main components for tokenizing any body of text
-#sentence tokenizer: groups by sentence
-#Word tokenizer: groups by words
+# two main components for tokenizing any body of text
+# sentence tokenizer: groups by sentence
+# Word tokenizer: groups by words
 
 from nltk.tokenize import sent_tokenize, word_tokenize
 
